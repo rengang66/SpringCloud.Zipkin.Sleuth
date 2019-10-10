@@ -1,4 +1,4 @@
-# 175--sleuth+Zipkin
+# 175--spring cloud+sleuth+Zipkin
 
 Zipkin示例项目
 
